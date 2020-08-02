@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("创建分支dev");
         System.out.println("master修改");
          System.out.println("在线修改");
+        System.out.println("测试ssh");
     }
 }
