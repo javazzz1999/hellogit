@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("master修改");
          System.out.println("在线修改");
         System.out.println("测试ssh");
+        System.out.println("你好");
     }
 }
